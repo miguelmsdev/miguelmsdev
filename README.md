@@ -36,19 +36,6 @@ Right now my main goal is **getting my first tech job** and staying consistent w
 
 ---
 
-## GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miguelmsdev&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmsdev&layout=compact" />
-</p>
-
-<p>
-  <img height="170" src="https://streak-stats.demolab.com?user=miguelmsdev" />
-</p>
-
----
-
 ## Contact
 
 * LinkedIn: [(add link)](www.linkedin.com/in/miguelmsdev)
