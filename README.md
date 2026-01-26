@@ -1,15 +1,13 @@
-I'm a junior developer focused on **web development and automation**. I like learning by building real things and keeping stuff simple.
-
-Right now my main goal is **getting my first tech job** and staying consistent with daily coding.
+I'm a junior developer focused on **back-end developing and devops**. I like learning by product building.
 
 ---
 
 ## What I'm focusing on right now
 
-* JavaScript / TypeScript
-* Node.js, React, Next.js
-* Small daily coding sessions (no overengineering)
-* Learning French little by little 🇫🇷
+* Main focus being Back-end with Python
+* Secondary focus being a full-stack project with Node.js
+* Documenting while I develop
+* Improving my French level (A2)  🇫🇷
 
 ---
 
@@ -28,11 +26,15 @@ Right now my main goal is **getting my first tech job** and staying consistent w
 </p>
 
 ---
+## Finished projects
 
-## Projects
+* **DTM Automation** — Automating workflow for paperwork submition utilizing python and selenium
 
-* **clone-tabnews** — cloning a real product to learn backend, Node and Docker
-* **automation scripts** — small tools to save time (Python / JS)
+
+## Ongoing Projects
+
+* **clone-tabnews** — cloning a real product from Felipe Deschamps to learn backend, Node and Docker
+
 
 ---
 
@@ -43,4 +45,4 @@ Right now my main goal is **getting my first tech job** and staying consistent w
 
 ---
 
-Trying to improve a little every day.
+Learning something every day.
